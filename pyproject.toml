@@ -73,7 +73,7 @@ pythonpath = ["src"]
 testpaths = ["tests"]
 
 [build-system]
-requires = ["setuptools>=61.0", "wheel"]
+requires = ["setuptools>=84.2.1", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
